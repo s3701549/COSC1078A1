@@ -4,7 +4,7 @@
   <head>
   <title> My assignment 1</title>
   </head>
-  <nav><a href="Interest in IT.html">This is a link</a></nav>
+  <nav><a href="Interest in IT.md">Interest in IT</a></nav>
 <body>
 <h1>My Profile</h1>
   <h2>Personal Information</h2>
