@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 
 <html>
   <head>
   <title> My assignment 1</title>
   </head>
-  <nav><a href="Interest in IT.html">Interest in IT</a></nav>
+  <nav><a href="Personal Information.md">Personal Information</a></nav>
 <body>
 <h1>Interest in IT</h1>
   <h2>What is your interest in IT?</h2>
