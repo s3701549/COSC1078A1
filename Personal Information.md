@@ -3,7 +3,7 @@
   <head>
   <title> My assignment 1</title>
   </head>
-  <nav><a href="Interest in IT.md">Interest in IT</a></nav>
+
 <body>
   <h1>Personal Information</h1>
   <p>My name is Nuozehua Li, Jason is my English name. 
