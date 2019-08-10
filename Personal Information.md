@@ -1,4 +1,4 @@
-
+<DOCTYPE! HTML>
 <html>
   <head>
   <title> My assignment 1</title>
