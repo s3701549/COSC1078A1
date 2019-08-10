@@ -6,8 +6,7 @@
   </head>
   <nav><a href="Interest in IT.md">Interest in IT</a></nav>
 <body>
-<h1>My Profile</h1>
-  <h2>Personal Information</h2>
+  <h1>Personal Information</h1>
   <p>My name is Nuozehua Li, Jason is my English name. 
     My student number is S3701549, the email address is S3701549@student.rmit.edu.au.
     I come from JiangSu China, in my hometown, there are many famous scenic spot such as natural caves and bamboo forests. 
