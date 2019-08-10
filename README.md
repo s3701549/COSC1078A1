@@ -1,2 +1,2 @@
-# COSC1078A1
+# My Profile
 COSC1078A1
