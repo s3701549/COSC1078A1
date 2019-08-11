@@ -5,3 +5,4 @@ Nuozehua Li
 <h2>Please click navigation to start:</h2>
 <li> <a href="Personal Information.html">Personal Information</a></li>
 <li> <a href="Interest in IT.html">Interest in IT</a></li>
+{% assign filtered_posts = site.posts}
