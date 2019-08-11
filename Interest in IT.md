@@ -3,7 +3,7 @@
   <head>
   <title> My assignment 1</title>
   </head>
-  
+<li> <a href="Personal Information.md">Personal Information</a></li>  
 <body>
 <h1>Interest in IT</h1>
   <h2>What is your interest in IT?</h2>
