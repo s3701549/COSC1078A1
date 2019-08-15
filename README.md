@@ -33,7 +33,7 @@ Nuozehua Li
 
   <p>Link: https://www.seek.com.au/job/39531693?searchrequesttoken=e34563fd-3f51-446a-b3f2-8dc9d6a30e21&type=standard </p>
   
-   <img src="advertisement.PNG" alt="forest">
+   <img src="advertisement.PNG" alt="advertisement">
 
 <h3> ● A description (in your own words) of the position, and particularly what makes this position appealing to you.</h3>
 
@@ -50,8 +50,9 @@ Nuozehua Li
 
 <p>For get this job, I should continue to study programming skills in the university, at least finish all bachelor courses about the programming, after that l will consider to be a graduate student to get a higher degree. Then I will find a Practical work to accumulate more work experience like understand how do the programming team working, working mode and content; As the same time, l will develop myself.</p>
 
-
-
+<h2>4.Personal Profile</h2>
+<h3> ● The results of an online Myers-Briggs test.</h3>
+<img src="advertisement.PNG" alt="forest">
 
 
 
