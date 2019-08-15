@@ -35,7 +35,20 @@ Nuozehua Li
   
    <img src="advertisement.PNG" alt="forest">
 
+<h3> ● A description (in your own words) of the position, and particularly what makes this position appealing to you.</h3>
 
+<p>The position of this job is developing application, such as application encryption, Build and test modules coded and so on. I like this job because I think programming is interesting, it’s a teamwork,also I can develop myself while l am doing this job.</p>
+
+<h3> ● A description (in your own words) of the skills, qualifications and experience required for the position. </h3>
+<p>Get this job need Strong programming skills. You should know different programming languages such as JAVA and C or C++ and use it proficiency. Understanding of encryption is also a important part of this job, if you can do that, you will be considered first.</p>
+
+<h3> ● A description (in your own words) of the skills, qualifications and experience you currently have.</h3>
+
+<p>I just a new learner to the programming, now l can only use some basic programming knowledge to do some easy work. I have no work experience and necessary qualifications.</p>
+
+ <h3> ● A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now.</h3>
+
+<p>For get this job, I should continue to study programming skills in the university, at least finish all bachelor courses about the programming, after that l will consider to be a graduate student to get a higher degree. Then I will find a Practical work to accumulate more work experience like understand how do the programming team working, working mode and content; As the same time, l will develop myself.</p>
 
 
 
