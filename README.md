@@ -8,7 +8,7 @@ Nuozehua Li
   <title> My assignment 1</title>
   </head>
 <body>
-  <h2>Personal Information</h2>
+  <h2>1.Personal Information</h2>
   <p>My name is Nuozehua Li, Jason is my English name. 
     My student number is S3701549, the email address is S3701549@student.rmit.edu.au.
     I come from JiangSu China, in my hometown, there are many famous scenic spot such as natural caves and bamboo forests.</p>
