@@ -17,7 +17,7 @@ Nuozehua Li
     <p>I have been in Melbourne for a year, I graduated from diploma and start my bachelor life now. I can speak Chinese, English, but     my English still not very good.
     About my hobby, l like playing games in my free time. I also like listening music when I read books, it can make me relax.</p>
 
-<h2>Interest in IT</h2>
+<h2>2.Interest in IT</h2>
 
   <h3>● What is your interest in IT?</h3>
   <p>When I was young and I first time to touch the computer, l had been attracted, so I’m really interested in computer from that time. Games, and Social software really made me crazy. With my growth, I start to interested in how does it work, thats why I choose IT now, l really want to programming my own software in the future, it’s cool for me.</p>
@@ -25,6 +25,13 @@ Nuozehua Li
   <p>I choose RMIT because there are have good environment, RMIT university is in downtown Melbourne and there are many Chinese students, if I have something don’t understand, it’s easy to ask them for help.   </p>
   <h3>● What do you expect to learn during your studies?</h3>
   <p>I hope I can study enough knowledge of computer and computer communication, In particular programming skills, make sure l can find a good job in the future.</p>
+  
+  
+  <h2>3.Ideal Job</h2>
+  
+  <h3>● The job advertisement withlink, and a snapshot
+
+  Link: https://www.seek.com.au/job/39531693?searchrequesttoken=e34563fd-3f51-446a-b3f2-8dc9d6a30e21&type=standard
 
 
 
