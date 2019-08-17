@@ -94,3 +94,15 @@ not have this kind of app yet, so school app still have huge potential nowadays.
 <h4>Resource sharing</h4>
 <p>Whatever students and teachers, they can share a good learning method though this app. App provide a forum to student and teacher sharing their learning method and experience, teacher also can upload courseware and Review information. It’s make students get common progress.
 </p>
+<h3>Tools and Technologies</h3>
+    <h4>• The development environment</h4>
+        ◦ CPU: Intel® Core(TM)2 Duo CPU<br>
+        ◦ Graphics card: NVIDIA GeForce GT240 / ATI HD4670<br>
+        ◦ Memory : 4GB<br>
+        ◦ HHD: 3.5GB<br>
+        ◦ System:WinXP/2003/Vista/7<br>
+    <h4>• development tools</h4>
+        ◦ Hardware: Computers, One or more servers, Phone test: IOS or Android Phone(All kinds of mobile phones’ model for testing like IOS and android).<br>
+        ◦ Software: Ndk. IOS SDK and other support c language c++ language environment for writing tests. Android Studio, SQL Wave, Access and so on.<br>
+   <h4> • Development personnel </h4>
+       <p> ◦ Product manager, technical manager, android engineer, iOS engineer, PHP engineer, front-end, UI, art, etc...Need a lot of operation person.<p>
