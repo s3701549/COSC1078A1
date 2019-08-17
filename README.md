@@ -77,4 +77,9 @@ if you are sense of responsibility and easy-going, people will like to work with
 That my opinion.</p>
 
 <h2>5.Project ideas</h2>
-
+<h3>Overview</h3>
+<p>I want to developing a smartphone app about the school which is help a school to realize intelligent management online. For example: teacher can check each students’ status, such as Attendance, homework completion and so on. Student enroll, Class allocation, teacher assigned also be included by this app. In addition, student can email their teacher, students’ parent also can contact their children’s teacher in this app. The teacher can share courseware and homework on the app. 
+So this school app can promote the efficiency of school management, reduce the input of related resources, and improve the work efficiency. That what I want.</p>
+<h3>Motivation</h3>
+<p>Education is very important for a country, but traditional school the way to operation is inconvenient. Take a simple example, each student need to go to school for enroll and they must take their tuition to the school and give it to their teacher. Many students will miss their enroll time because of some reasons or they will lose their tuition. Why we not use some easy way to instead of that such as do this online? I know some universities have had this kind of app, like RMIT university. But a lot of primary school and high school 
+not have this kind of app yet, so school app still have huge potential nowadays.</p>
