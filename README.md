@@ -64,5 +64,18 @@ A = greeableness,
 N = Neuroticism</p>
 <img src="Big five personality test.PNG" alt="test2">
 
+<h3>● What do the results of these tests mean for you? </h3>
+<p>I think some of opinions in the results of these tests are true for me, but not all. Maybe as the results show I’m auditory learner, so I will attention to this and more use this way to study in the future. The result also show I'm introverted and I admit it, this is one of drawback for me, but l will  try to get over it. There are all results mean for me: keep going and develop myself.</p>
+
+<h3>● How do you think these results may influence your behaviour in a team? </h3>
+<p>Different people have different personality, these personality must influence the behavior when they are working as a team; 
+For example, I’m introverted, this will influence the team communication in a team;
+if you are sense of responsibility and easy-going, people will like to work with you. </p>
+
+<h3>● How should you take this into account when forming a team?</h3>
+<p>If I’m the team manager, I will assigning different tasks to people who have different personality. If people who are outgoing, these people usually have communication and language skills, so they are Suitable to be a diplomat; If people who are introverted, these kind of people always have sense of responsibility and work very hard in the team. So they are suitable to be a staff such as programmer.
+That my opinion.</p>
+
+
 </body>
 </html>
