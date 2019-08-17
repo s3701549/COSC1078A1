@@ -85,4 +85,12 @@ So this school app can promote the efficiency of school management, reduce the i
 not have this kind of app yet, so school app still have huge potential nowadays.</p>
 <h3>Description </h3>
 <p>There are four main parts of this app:</p>
-<li><br><h4>Intelligent management</h4></li>
+<h4>Intelligent management</h4>
+<p>It’s not easy for school administration before a new semester start of the school, so this app will help to student enroll, student can check their information, the app will according to their information assign them to the correct grade, the class will be automatic allocated(of course student can choose class which they want, but if this class full they can not choose). teachers also can log in this app to check which class they are assigned. After that the fee they should pay will be displayed and they can pay online or take it to their class adviser, if student pay online, related receipt will be send to their home.</p>
+<h4>Communication</h4>
+<p>All the time, student and their parents have less communicate with students’ teacher. One of the reason is their parents are busy, have no time to communicate with the teacher and some students are afraid to communicate with teachers. So this app support to online communication with teachers and students/parents. They can open a chat window any time, you can send message/images even Emoji! If student do not like that, don’t worry, each teachers’ information will be recorded in the database of this app, student can easy to find the teachers’ phone number, email address and so on.  </p>
+<h4>Encourage students to study and review</h4>
+<p>Now many students have their own smartphone, but some of them enjoy playing games and forget study or do their homework. In order to avoid students addicted to mobile phone games, The school distributes learning plans and arrangements to each student's mobile apps. The app also will provide some learning-related games lead students to be interested in learning, make student study and review consciously.</p>
+<h4>Resource sharing</h4>
+<p>Whatever students and teachers, they can share a good learning method though this app. App provide a forum to student and teacher sharing their learning method and experience, teacher also can upload courseware and Review information. It’s make students get common progress.
+</p>
