@@ -76,5 +76,5 @@ if you are sense of responsibility and easy-going, people will like to work with
 <p>If I’m the team manager, I will assigning different tasks to people who have different personality. If people who are outgoing, these people usually have communication and language skills, so they are Suitable to be a diplomat; If people who are introverted, these kind of people always have sense of responsibility and work very hard in the team. So they are suitable to be a staff such as programmer.
 That my opinion.</p>
 
-
+<h2>5.Project ideas</h2>
 
