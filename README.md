@@ -51,12 +51,12 @@ Nuozehua Li
 <p>For get this job, I should continue to study programming skills in the university, at least finish all bachelor courses about the programming, after that l will consider to be a graduate student to get a higher degree. Then I will find a Practical work to accumulate more work experience like understand how do the programming team working, working mode and content; As the same time, l will develop myself.</p>
 
 <h2>4.Personal Profile</h2>
-<h3> ● The results of an online Myers-Briggs test.</h3>
+<h3> ● The results of an online Myers-Briggs test:</h3>
 <img src="Myers-Briggs test.PNG" alt="Myers-Briggs">
-<h3>● The results of an online learning style test. </h3>
+<h3>● The results of an online learning style test: </h3>
 <img src="online learning style test.PNG" alt="test">
-
-
+<h3>● The results of one further online test:</h3>
+<img src="Big five personality test.PNG" alt=""Big five personality test">
 
 </body>
 </html>
