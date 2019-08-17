@@ -56,6 +56,12 @@ Nuozehua Li
 <h3>● The results of an online learning style test: </h3>
 <img src="online learning style test.PNG" alt="test">
 <h3>● The results of one further online test:</h3>
+<p>
+O = Openness
+C = Conscientiousness
+E = Extraversion
+A = greeableness
+N = Neuroticism</p>
 <img src="Big five personality test.PNG" alt="test2">
 
 </body>
