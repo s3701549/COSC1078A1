@@ -83,3 +83,6 @@ So this school app can promote the efficiency of school management, reduce the i
 <h3>Motivation</h3>
 <p>Education is very important for a country, but traditional school the way to operation is inconvenient. Take a simple example, each student need to go to school for enroll and they must take their tuition to the school and give it to their teacher. Many students will miss their enroll time because of some reasons or they will lose their tuition. Why we not use some easy way to instead of that such as do this online? I know some universities have had this kind of app, like RMIT university. But a lot of primary school and high school 
 not have this kind of app yet, so school app still have huge potential nowadays.</p>
+<h3>Description </h3>
+<p>There are four main parts of this app:</p>
+<h4>Intelligent management</h4>
