@@ -53,6 +53,8 @@ Nuozehua Li
 <h2>4.Personal Profile</h2>
 <h3> ● The results of an online Myers-Briggs test.</h3>
 <img src="Myers-Briggs test.PNG" alt="Myers-Briggs">
+<h3>● The results of an online learning style test. </h3>
+<img src="Myers-Briggs test.PNG" alt="Myers-Briggs">
 
 
 
