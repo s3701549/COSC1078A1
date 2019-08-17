@@ -106,3 +106,7 @@ not have this kind of app yet, so school app still have huge potential nowadays.
         ◦ Software: Ndk. IOS SDK and other support c language c++ language environment for writing tests. Android Studio, SQL Wave, Access and so on.<br>
    <h4> • Development personnel </h4>
        <p> ◦ Product manager, technical manager, android engineer, iOS engineer, PHP engineer, front-end, UI, art, etc...Need a lot of operation person.<p>
+  <h3>Skill required</h3>
+  • The most basic is a knowledge of the Java language and XML language foundation: objective-c language, x code development environment and enough mobile phone use experience.<br>
+        ◦ Skills required: JAVA basic grammar, design patterns, Linux basic knowledge, database basic knowledge, network protocol, Basic knowledge of android, server-side development, PHP and so on.<br>
+        ◦ About the feasible to find the skills, software and hardware required: Firstly, before we start this project, we should have a company, and a work team is necessary, it’s including project manager, technical personnel, test personnel and so on. So these people should meet technical requirements what the above-mentioned, otherwise we can't make a perfect software. Then is hardware, we need to have enough capital before the company is founded and purchase the infrastructure such as computers and servers, after that, we will install the necessary software in each computer such as Android Studio, database(SQL) etc… Ensure the daily operation of the company.<br>
