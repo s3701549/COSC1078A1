@@ -85,4 +85,4 @@ So this school app can promote the efficiency of school management, reduce the i
 not have this kind of app yet, so school app still have huge potential nowadays.</p>
 <h3>Description </h3>
 <p>There are four main parts of this app:</p>
-<h4>Intelligent management</h4>
+<li><h4>Intelligent management</h4></li>
